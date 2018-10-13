@@ -11,7 +11,7 @@ Polynomes are:
 {1, -2, 3}
 ```
 this is equvalent to ![equ2](https://latex.codecogs.com/gif.latex?1%20x%5E2%20-%202x%20&plus;%203 "equ2")
-, a polynim os degree **2**.
+, a polynim of degree **2**.
 
 # requires
 [GSL](https://www.gnu.org/software/gsl/)
